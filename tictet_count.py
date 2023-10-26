@@ -8,5 +8,5 @@ while True:
     else:
         result_dict[x] += 1
         count += 1
-
+#test
 print(f"统计结果如下\n共{count}张票")
